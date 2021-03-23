@@ -13,6 +13,8 @@
 		A73C8E402609C97600C3ED1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A73C8E3E2609C97600C3ED1E /* Main.storyboard */; };
 		A73C8E422609C97600C3ED1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A73C8E412609C97600C3ED1E /* Assets.xcassets */; };
 		A73C8E452609C97600C3ED1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A73C8E432609C97600C3ED1E /* LaunchScreen.storyboard */; };
+		A73C8E4D2609CAEB00C3ED1E /* SharpImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73C8E4C2609CAEB00C3ED1E /* SharpImageView.swift */; };
+		A73C8E4F2609D38300C3ED1E /* SharpImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73C8E4E2609D38300C3ED1E /* SharpImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		A73C8E412609C97600C3ED1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A73C8E442609C97600C3ED1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A73C8E462609C97600C3ED1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A73C8E4C2609CAEB00C3ED1E /* SharpImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpImageView.swift; sourceTree = "<group>"; };
+		A73C8E4E2609D38300C3ED1E /* SharpImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				A73C8E3A2609C97600C3ED1E /* SceneDelegate.swift */,
 				A73C8E3C2609C97600C3ED1E /* ViewController.swift */,
 				A73C8E3E2609C97600C3ED1E /* Main.storyboard */,
+				A73C8E4E2609D38300C3ED1E /* SharpImage.swift */,
+				A73C8E4C2609CAEB00C3ED1E /* SharpImageView.swift */,
 				A73C8E412609C97600C3ED1E /* Assets.xcassets */,
 				A73C8E432609C97600C3ED1E /* LaunchScreen.storyboard */,
 				A73C8E462609C97600C3ED1E /* Info.plist */,
@@ -140,6 +146,8 @@
 				A73C8E3D2609C97600C3ED1E /* ViewController.swift in Sources */,
 				A73C8E392609C97600C3ED1E /* AppDelegate.swift in Sources */,
 				A73C8E3B2609C97600C3ED1E /* SceneDelegate.swift in Sources */,
+				A73C8E4F2609D38300C3ED1E /* SharpImage.swift in Sources */,
+				A73C8E4D2609CAEB00C3ED1E /* SharpImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
